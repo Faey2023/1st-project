@@ -1,4 +1,21 @@
+h3{
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
 div{
-    color: black;
-    background-color: red;
+
+}
+        
+img{
+    width: 200px;
+    border-radius: 20px ;
+
+}
+footer,a{
+    text-align: center;
+    font-size: smaller;
+    font-family:cursive ;
 }
